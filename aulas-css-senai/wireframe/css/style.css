@@ -160,6 +160,9 @@ nav ul li a:hover{
     font-size: 64px;
 }
 
+.novidades img{
+    margin: 0px 123px 0px 0px;
+}
 
 .novidades .container2{
     display: flex;
